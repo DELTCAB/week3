@@ -1,0 +1,57 @@
+[
+  {
+    "city": "Los Angeles",
+    "temp": "16",
+    "desc": "Patchy rain nearby"
+  },
+  {
+    "city": "Los Angeles",
+    "temp": "16",
+    "desc": "Patchy rain nearby"
+  },
+  {
+    "city": "New York",
+    "temp": "10",
+    "desc": "Clear "
+  },
+  {
+    "city": "Chicage",
+    "temp": "9",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Dallas",
+    "temp": "18",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Los Angeles",
+    "temp": "16",
+    "desc": "Patchy rain nearby"
+  },
+  {
+    "city": "Houston",
+    "temp": "20",
+    "desc": "Smoky haze"
+  },
+  {
+    "city": "Chicago",
+    "temp": "14",
+    "desc": "Clear "
+  },
+  {
+    "city": "Chicago",
+    "temp": "14",
+    "desc": "Clear "
+  },
+  {
+    "city": "Chicago",
+    "temp": "14",
+    "desc": "Clear "
+  },
+  {
+    "city": "Chicago",
+    "temp": "14",
+    "desc": "Clear "
+  }
+]
