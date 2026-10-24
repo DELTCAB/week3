@@ -53,5 +53,35 @@
     "city": "Chicago",
     "temp": "14",
     "desc": "Clear "
+  },
+  {
+    "city": "London",
+    "temp": "7",
+    "desc": "Overcast "
+  },
+  {
+    "city": "London",
+    "temp": "7",
+    "desc": "Overcast "
+  },
+  {
+    "city": "New York",
+    "temp": "9",
+    "desc": "Clear "
+  },
+  {
+    "city": "Los Angeles",
+    "temp": "20",
+    "desc": "Clear "
+  },
+  {
+    "city": "abcdef",
+    "temp": "5",
+    "desc": "Light drizzle"
+  },
+  {
+    "city": "Paris",
+    "temp": "10",
+    "desc": "Patchy rain nearby"
   }
 ]
