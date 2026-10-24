@@ -83,5 +83,110 @@
     "city": "Paris",
     "temp": "10",
     "desc": "Patchy rain nearby"
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Denver",
+    "temp": "18",
+    "desc": "Overcast "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Denver",
+    "temp": "18",
+    "desc": "Overcast "
+  },
+  {
+    "city": "Denver",
+    "temp": "18",
+    "desc": "Overcast "
+  },
+  {
+    "city": "Denver",
+    "temp": "18",
+    "desc": "Overcast "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
+  },
+  {
+    "city": "Seattle",
+    "temp": "7",
+    "desc": "Partly Cloudy "
   }
 ]

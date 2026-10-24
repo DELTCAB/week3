@@ -89,7 +89,7 @@ if st.button("查询"):
             except requests.RequestException as e:
                 logging.error(f"请求失败：{e}")
                 st.error(f"请求失败：{e}")
-            except (KeyError, IndexError):
+            except (KeyError, IndexError) as e:
                 logging.error(f"数据格式异常：{e}")
                 st.error("返回数据格式异常")
 
